@@ -1,4 +1,4 @@
-Nama    : Iqza Ardiansyah\n
-NPM     : 2206810042\n
-Kelas   : PBP F\n
+Nama    : Iqza Ardiansyah
+NPM     : 2206810042
+Kelas   : PBP F
 Hobi    : Bernafas
